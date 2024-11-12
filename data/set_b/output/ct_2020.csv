@@ -1,0 +1,9 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2020,Connecticut,Fairfield County,09001,169039,36,297505,64,99.0,2020-12-09T20:18:43.653000+0000
+2020,Connecticut,Hartford County,09003,159024,36,283368,64,98.0,2020-12-09T20:18:25.650000+0000
+2020,Connecticut,Litchfield County,09005,55601,53,50164,47,98.0,2020-12-09T20:17:51.560000+0000
+2020,Connecticut,Middlesex County,09007,40665,42,56848,58,98.0,2020-12-04T19:31:07.330000+0000
+2020,Connecticut,New Haven County,09009,169892,41,242629,59,99.0,2020-12-09T20:18:05.607000+0000
+2020,Connecticut,New London County,09011,57110,42,79459,58,98.0,2020-11-30T18:32:50.270000+0000
+2020,Connecticut,Tolland County,09013,34819,44,44006,56,98.0,2020-11-30T22:22:28.610000+0000
+2020,Connecticut,Windham County,09015,29141,52,26701,48,98.0,2020-11-30T22:23:22.753000+0000

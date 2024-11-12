@@ -1,0 +1,11 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2024,New Hampshire,Belknap County,33001,22765,57,17469,43,99.0,2024-11-06T23:20:20.087000+0000
+2024,New Hampshire,Carroll County,33003,16703,50,16400,50,97.0,2024-11-06T09:44:55.080000+0000
+2024,New Hampshire,Cheshire County,33005,19894,45,24335,55,98.0,2024-11-06T21:41:15.090000+0000
+2024,New Hampshire,Coos County,33007,9705,57,7250,43,99.0,2024-11-06T10:00:15.117000+0000
+2024,New Hampshire,Grafton County,33009,21406,40,32191,60,97.0,2024-11-06T22:10:00.140000+0000
+2024,New Hampshire,Hillsborough County,33011,111247,49,117785,51,97.0,2024-11-06T22:23:30.090000+0000
+2024,New Hampshire,Merrimack County,33013,43374,47,48171,53,99.0,2024-11-06T23:10:10.090000+0000
+2024,New Hampshire,Rockingham County,33015,102218,51,97253,49,98.0,2024-11-06T20:58:25.113000+0000
+2024,New Hampshire,Strafford County,33017,33117,44,42310,56,99.0,2024-11-06T22:00:25.090000+0000
+2024,New Hampshire,Sullivan County,33019,11588,50,11787,50,94.0,2024-11-06T22:31:30.123000+0000

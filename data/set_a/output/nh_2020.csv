@@ -1,0 +1,11 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2020,New Hampshire,Belknap County,33001,20899,55,16894,45,98.0,2020-11-24T13:43:35.977000+0000
+2020,New Hampshire,Carroll County,33003,16150,49,16649,51,99.0,2020-11-24T13:42:18.943000+0000
+2020,New Hampshire,Cheshire County,33005,17892,41,25506,59,98.0,2020-11-24T13:55:04.203000+0000
+2020,New Hampshire,Coos County,33007,8617,53,7640,47,98.0,2020-11-24T13:43:36.127000+0000
+2020,New Hampshire,Grafton County,33009,19905,37,33180,63,98.0,2020-11-24T13:55:03.947000+0000
+2020,New Hampshire,Hillsborough County,33011,104625,46,122344,54,98.0,2020-11-24T13:55:03.770000+0000
+2020,New Hampshire,Merrimack County,33013,39711,45,48533,55,98.0,2020-11-24T13:55:02.580000+0000
+2020,New Hampshire,Rockingham County,33015,95858,49,100064,51,98.0,2020-11-24T13:55:03.400000+0000
+2020,New Hampshire,Strafford County,33017,30489,42,41721,58,98.0,2020-11-24T13:43:23.603000+0000
+2020,New Hampshire,Sullivan County,33019,11508,48,12390,52,98.0,2020-11-24T13:43:24.113000+0000

@@ -1,0 +1,6 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2020,Rhode Island,Bristol County,44001,9745,35,18050,65,98.0,2020-12-17T18:17:02.317000+0000
+2020,Rhode Island,Kent County,44003,42001,46,49113,54,98.0,2020-12-17T18:17:02.720000+0000
+2020,Rhode Island,Newport County,44005,15722,35,29486,65,98.0,2020-12-17T18:17:02.247000+0000
+2020,Rhode Island,Providence County,44007,102551,38,165012,62,99.0,2020-12-17T18:17:02.653000+0000
+2020,Rhode Island,Washington County,44009,29818,40,44549,60,98.0,2020-12-17T18:17:02.457000+0000

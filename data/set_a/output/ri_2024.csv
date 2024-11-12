@@ -1,0 +1,6 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2024,Rhode Island,Bristol County,44001,9945,37,17190,63,95.0,2024-11-06T05:03:45.763000+0000
+2024,Rhode Island,Kent County,44003,44011,49,45353,51,95.0,2024-11-06T14:20:35.107000+0000
+2024,Rhode Island,Newport County,44005,15838,37,26844,63,92.0,2024-11-06T17:40:40.170000+0000
+2024,Rhode Island,Providence County,44007,111054,43,146808,57,94.0,2024-11-07T00:58:00.127000+0000
+2024,Rhode Island,Washington County,44009,30764,43,41422,57,94.0,2024-11-06T14:20:35.123000+0000

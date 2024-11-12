@@ -1,0 +1,4 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2024,Delaware,Kent County,10001,42432,48,44200,50,99.0,2024-11-06T19:04:40.073000+0000
+2024,Delaware,New Castle County,10003,90768,33,180568,66,95.0,2024-11-06T19:04:40.103000+0000
+2024,Delaware,Sussex County,10005,80984,55,64817,44,99.0,2024-11-06T19:04:30.223000+0000

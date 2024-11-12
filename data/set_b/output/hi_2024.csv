@@ -1,0 +1,5 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2024,Hawaii,Hawaii County,15001,28699,35,52091,63,94.0,2024-11-06T22:14:45.107000+0000
+2024,Hawaii,Honolulu County,15003,130205,38,203914,60,89.0,2024-11-07T05:37:20.227000+0000
+2024,Hawaii,Kauai County,15007,11759,39,17641,59,89.0,2024-11-06T23:53:20.087000+0000
+2024,Hawaii,Maui County,15009,22506,36,38738,62,88.0,2024-11-07T05:37:20.140000+0000

@@ -1,0 +1,5 @@
+electionYear,stateDisplayName,countyDisplayName,countyFips,votes_republicans,percent_republicans,votes_democrats,percent_democrats,countyReporting,lastUpdated
+2020,Hawaii,Hawaii County,15001,26897,31,58731,67,100.0,2020-11-24T14:01:58.490000+0000
+2020,Hawaii,Honolulu County,15003,136259,36,238869,63,100.0,2020-11-24T14:01:58.503000+0000
+2020,Hawaii,Kauai County,15007,11582,35,21225,63,100.0,2020-11-24T14:01:58.517000+0000
+2020,Hawaii,Maui County,15009,22126,31,47305,67,100.0,2020-11-24T14:01:58.540000+0000
